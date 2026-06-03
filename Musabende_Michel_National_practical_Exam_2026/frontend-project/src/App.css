@@ -1,0 +1,8 @@
+/* Minimal overrides - Tailwind handles most styling */
+@media print {
+  aside,
+  header,
+  .no-print {
+    display: none !important;
+  }
+}
