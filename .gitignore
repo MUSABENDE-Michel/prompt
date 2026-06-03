@@ -1,4 +1,6 @@
 node_modules/
+.env
+Musabende_Michel_National_practical_Exam_2026/
 dist/
 .env
 .DS_Store
